@@ -24,7 +24,7 @@ author:
   avatar           : "at Image_202212291257.png"
   name             : "Longhao Yan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Singapore"
   employer         : "National University of Singapore"
   URI              : "https://lhyanl.github.io/"
