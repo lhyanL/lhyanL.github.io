@@ -7,6 +7,18 @@ redirect_from:
   - /about.html
 ---
 
+I'm a second year Ph.D. student from [Department of Civil and Environmental Engineering](https://cde.nus.edu.sg/cee/), [National University of Singapore](https://www.nus.edu.sg/). My research interest includes multi agent systems and autonomous agents, reinforcement learning and control theory.
+
+I am very fortunate to be advised by [Prof. Kaidi Yang](https://sites.google.com/view/kaidiyang/) from [Department of Civil and Environmental Engineering](https://cde.nus.edu.sg/cee/), National University of Singapore. 
+% I was advised by [Prof. Ping Wang](https://ise.sysu.edu.cn/teacher/teacher02/1406670.htm) from [School of Electronics and Control Engineering](https://ec.chd.edu.cn/), Chang'an University.
+
+You can find my CV here: [Longhao Yan's Curriculum Vitae](https://drive.google.com/file/d/1DAHtJGryImu1ytw5LrZTYjgItqD1-k88/view?usp=sharing).
+
+[Email](longhao.yan@u.nus.edu) / [Google Scholar](https://scholar.google.com/citations?user=nAxC4RkAAAAJ&hl=zh-CN&oi=ao)
+% [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+
+
+\begin{comment}
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -47,3 +59,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+\end{comment}
