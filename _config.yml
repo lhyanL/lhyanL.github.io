@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "at Image_202212291257.png"
+  avatar           : "闫龙昊证件照.png"
   name             : "Longhao Yan"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at NUS"
