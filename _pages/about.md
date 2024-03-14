@@ -13,4 +13,4 @@ I am now advised by [Prof. Kaidi Yang](https://sites.google.com/view/kaidiyang/)
 
 You can find my CV here: [Longhao Yan's Curriculum Vitae](https://drive.google.com/file/d/1DAHtJGryImu1ytw5LrZTYjgItqD1-k88/view?usp=sharing).
 
-[Email](longhao.yan@u.nus.edu) / [Google Scholar](https://scholar.google.com/citations?user=nAxC4RkAAAAJ&hl=zh-CN&oi=ao) / [ResearchGate](https://www.researchgate.net/profile/Longhao-Yan-2) / [LinkedIn](https://www.linkedin.com/in/longhao-yan-0b5131260/)
+[Email](longhao.yan@u.nus.edu) / [Google Scholar](https://scholar.google.com/citations?user=nAxC4RkAAAAJ&hl=zh-CN&oi=ao) / [ResearchGate](https://www.researchgate.net/profile/Longhao-Yan-2) / [LinkedIn](https://sg.linkedin.com/in/longhao-yan-0b5131260)
