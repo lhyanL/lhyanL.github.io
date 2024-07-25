@@ -1,5 +1,5 @@
 ---
-title: "Refined path planning for emergency rescue vehicles on congested urban arterial roads via reinforcement learning approach"
+title: "Refined Path Planning for Emergency Rescue Vehicles on Congested Urban Arterial Roads via Reinforcement Learning Approach"
 collection: publications
 permalink: /publication/2021-10-01-paper-title-number-1
 venue: 'Journal of Advanced Transportation'
