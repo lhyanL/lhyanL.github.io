@@ -1,5 +1,5 @@
 ---
-title: "A task-level emergency experience reuse method for freeway accidents onsite disposal with policy distilled reinforcement learning"
+title: "A Task-Level Emergency Experience Reuse Method for Freeway Accidents Onsite Disposal with Policy Distilled Reinforcement Learning"
 collection: publications
 permalink: /publication/2023-09-01-paper-title-number-2
 venue: 'Accident Analysis & Prevention'
