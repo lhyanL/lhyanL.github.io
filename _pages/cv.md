@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Civil and Environmental Engineering (specialized in Transportation), National University of Singapore, 2022 - 2026 (expected)
-* M.S. in Control Science and Engineering, Chang'an University, 2019 - 2022
+* M.Eng. in Control Science and Engineering, Chang'an University, 2019 - 2022
 * B.Eng. in Automation, Chang'an University, 2015 - 2019
 
  <!--
