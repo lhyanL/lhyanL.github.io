@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Civil and Environmental Engineering (specialized in Transportation), National University of Singapore, 2022 - 2026 (expected)
+* M.S. in Control Science and Engineering, Chang'an University, 2019 - 2022
+* B.Eng. in Automation, Chang'an University, 2015 - 2019
 
+ <!--
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -62,3 +63,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
